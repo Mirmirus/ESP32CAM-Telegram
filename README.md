@@ -86,4 +86,4 @@ If you try to interact with your bot from another account, you’ll get the “U
 ![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2020/06/Control-ESP32-ESP8266-Outputs-Telegram-Unauthorized-User.png?w=352&quality=100&strip=all&ssl=1)
 
 
-# In this tutorial, you’ve learned how to send a photo from the ESP32-CAM to your Telegram account. As long as you have access to the internet on your smartphone, you can request a new photo no matter where you are. This is great to monitor your ESP32-CAM from anywhere in the world.
+# In this tutorial, you learned how to transmit a photo from the ESP32-CAM to your Telegram account. With internet access on your smartphone, you can request a new photo from any location. This feature is ideal for monitoring your ESP32-CAM from anywhere in the world.
