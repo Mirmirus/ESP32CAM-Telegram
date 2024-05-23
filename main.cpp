@@ -19,8 +19,8 @@
 // const char* ssid = "IoTLaB";
 // const char* password = "iot303abab";
 
-const char* ssid = "Innbox-internet-ad0c38";
-const char* password = "INNBOX3110020642";
+const char* ssid = "";
+const char* password = "";
 
 // const char* ssid = "Mirmir";
 // const char* password = "Mirmirus16";
@@ -28,10 +28,10 @@ const char* password = "INNBOX3110020642";
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-String chatId = "595947282";
+String chatId = "";
 
 // Initialize Telegram BOT
-String BOTtoken = "7040924737:AAGf7pahUXVdQgXQe004AwgrVNutbqU-tgY";
+String BOTtoken = "";
 
 bool sendPhoto = false;
 
